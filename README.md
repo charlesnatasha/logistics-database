@@ -1,6 +1,6 @@
 # Logistics Database Management System
 
-A normalized relational database for tracking shipments, couriers, deliveries, and payments. Built for a logistics company to enable real time delivery tracking and performance analytics.
+A normalized relational database for tracking shipments, couriers, deliveries, and payments. Built for a logistics company to enable real-time delivery tracking and performance analytics.
 
 ## Database Schema
 
@@ -23,16 +23,17 @@ A normalized relational database for tracking shipments, couriers, deliveries, a
 
 ## Sample Analytics Queries
 
- Query , Purpose 
- Courier success rate, Performance tracking by delivery personnel 
- Late deliveries identification ,Operational improvement 
- Revenue by payment method , Business intelligence 
- Peak delivery hours , Resource allocation 
- Customer segmentation , Marketing insights 
+| Query | Purpose |
+|-------|---------|
+| Courier success rate | Performance tracking by delivery personnel |
+| Late deliveries identification | Operational improvement |
+| Revenue by payment method | Business intelligence |
+| Peak delivery hours | Resource allocation |
+| Customer segmentation | Marketing insights |
 
 ## Query Results Preview
 
-![Courier Success Rate](courier-success-rate.png)
+![Courier Success Rate](courier-success-rate.png.png)
 
 ## Technologies
 
